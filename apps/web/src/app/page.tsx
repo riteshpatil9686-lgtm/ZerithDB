@@ -129,7 +129,7 @@ export default function LandingPage() {
               href="https://github.com/Zerith-Labs/ZerithDB"
               target="_blank"
               rel="noopener noreferrer"
-              className="hidden md:flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
+              className="hidden md:flex items-center gap-2 bg-black text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-gray-800 transition-colors"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
